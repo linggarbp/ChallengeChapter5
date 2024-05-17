@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ChallengeChapter5" />
+        <module name="F-QAE24001120-synrgy7-lin-java-ch5" />
       </profile>
     </annotationProcessing>
   </component>
